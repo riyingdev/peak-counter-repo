@@ -1,0 +1,37 @@
+body{
+    font-family: "Minecraft Ten";
+    font-size: 10em;
+    background-color: #ffc16e;
+    text-align: center;
+}
+button {
+    font-family: "Minecraft Ten";
+    font-size: 50px;
+    position: relative;
+    padding: 10px 20px;
+    margin: 20px;
+    border: none;
+    border-radius: 20px;
+    transition: transform 0.5s ease;
+}
+#resetBtn:hover{
+    transform: scale(1.2);
+}
+#submitBtn:hover{
+    transform: scale(1.2);
+}
+#plusAll:hover{
+    transform: scale(1.2);
+}
+#dncBtn:hover{
+    transform: scale(1.2);
+}
+#incBtn:hover{
+    transform: scale(1.2);
+}
+input{
+    font-size: 50px;
+    border: none;
+    border-radius: 10px;
+    transition: transform 0.2s ease;
+}
